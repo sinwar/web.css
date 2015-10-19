@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Positioning with CSS</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div style="background-color:#1E3C3C; height:20%; width:100%">
+<div style="width:20%; float:left;"><img src="lalit.png" height="100%" width="90%"/></div>
+<div style="float:left;"><h1>Positining with CSS</h1>
+<p class="head">Brought to you by name1 and name2</p></div>
+</div>
+<div style="background-color:#633232; height:72%; width:18%; float:left;">
+<div style="background-color:#CCCCCC; height:8%; width:70%; margin-top:17%; margin-left:4%; margin-right:4%;">
+<div style="background-color:#5C5C5C; height:100%; width:7%; float:left; "></div><p class="left">CWU Home</p></div>
+
+<div style="background-color:#CCCCCC; height:8%; width::70%; margin-top:4%; margin-left:4%; margin-right:4%;">
+<div style="background-color:#5C5C5C; height:100%; width:7%; float:left; "></div><p class="left">CS Dept</p></div>
+
+
+
+<div style="background-color:#CCCCCC; height:8%; width::70%; margin-top:4%; margin-left:4%; margin-right:4%;">
+<div style="background-color:#5C5C5C; height:100%; width:7%; float:left; "></div><p class="left">CS 250</p></div>
+</div>
+<div style="background-color:#FFFFFF; height:72%; width:64%; float:left;">
+<h2> Welcome</h2>
+<p class="data">welcome to Central Washington University! we're public, for-year
+university located in Ellensburg,wash.No longer Washingaton's best-kept
+secret,we're now the state's fastest growing school of this type.
+</p>
+<p class="data">Central is recognized for outstanding academics,small classes and an ideal 
+location just end of the beautiful cascade Moutains,two hours from seatle.
+</p>
+</div>
+<div style="background-color:#858585; height:72%; width:18%; float:left;">
+<div style="background-color:#5C5C5C; height:28%; margin-top:25%; margin-left:10%; margin-right:10%;"><p class="box">Advertisement 1</p><p class="box1">Buy me</p>
+</div>
+<div style="background-color:#5C5C5C; height:28%; margin-top:15%; margin-left:10%; margin-right:10%;"><p class="box">Advertisement 2</p><p class="box2">Buy me too</p>
+</div>
+</div>
+<div style="background-color:#4D5D2E; height:8%; width:100%; margin-bottom; float:left;"><p class="bottom">CS 250,Fall 2011</p>
+</div>
+</body>
+</html>
